@@ -3,7 +3,7 @@ module github.com/tekugo/messwerk
 go 1.26.3
 
 require (
-	github.com/tekugo/zeichenwerk v1.1.0
+	github.com/tekugo/zeichenwerk v1.1.1
 	go.opentelemetry.io/proto/otlp v1.10.0
 	google.golang.org/grpc v1.81.1
 )
